@@ -1,0 +1,13 @@
+review,sentiment,emotion
+I love this product. The quality is amazing!,Positive,Happy
+This is the best purchase ever. Very happy!,Positive,Happy
+The product works perfectly. I am delighted.,Positive,Happy
+The delivery was fast and excellent!,Positive,Happy
+I hate this product. The quality is terrible.,Negative,Anger
+Very disappointed with my purchase.,Negative,Sadness
+The product stopped working. Bad experience.,Negative,No clear emotion
+Customer service was horrible.,Negative,Anger
+The product is okay. It is average.,Positive,No clear emotion
+Delivery was on time.,Neutral,No clear emotion
+Nothing special about this product.,Negative,No clear emotion
+The product arrived yesterday.,Neutral,No clear emotion
